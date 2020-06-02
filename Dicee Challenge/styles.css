@@ -1,0 +1,29 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  background-color: white;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.player-div {
+  display: inline-block;
+  margin: 30px 50px;
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+.player-img {
+  width: 70%;
+}
+
+.button-div {
+  padding: 30px;
+}
+
+.btn-reset {
+  padding: 5px 15px;
+}
